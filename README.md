@@ -47,7 +47,14 @@ A Laravel API with an animated front-end. Features a customizable add-on system,
 
 ---
 
+## 🌐 Portfolio
+
+🔗 **[mohammed-alhamati.github.io](https://mohammed-alhamati.github.io/)**
+
+---
+
 ## 📫 Reach Me
 
 - 📧 **Email:** Alhmohammed55@gmail.com
 - 💼 **LinkedIn:** [mohammed-alhamati](https://www.linkedin.com/in/mohammed-alhamati-5a237a35a/)
+- 🌐 **Portfolio:** [mohammed-alhamati.github.io](https://mohammed-alhamati.github.io/)
