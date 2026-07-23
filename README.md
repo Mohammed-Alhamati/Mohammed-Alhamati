@@ -53,23 +53,6 @@ A Laravel API with an animated front-end. Features a customizable add-on system,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohammed-Alhamati&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-Alhamati&theme=tokyonight&hide_border=true)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammed-Alhamati&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammed-Alhamati&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Alhamati&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
